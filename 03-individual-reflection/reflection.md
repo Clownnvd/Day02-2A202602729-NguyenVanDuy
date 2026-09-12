@@ -1,86 +1,62 @@
-# 03 — Individual Reflection
+# 03 — Individual Reflection: câu hỏi và dữ kiện để Duy tự hoàn thiện
 
-> Viết bằng lời của bạn (Phase 7 trong `01-worksheet.md`). Có thể dùng AI gợi ý câu hỏi tự soi, không dùng AI viết thay. 8-12 câu, có chuyện cụ thể.
+> **Chưa phải reflection cuối.** Worksheet Lab 2 yêu cầu học viên tự viết 8–12 câu về vai trò và trải nghiệm thật; AI chỉ được gợi câu hỏi tự soi. Phần dưới lưu lại những việc đã diễn ra trong cuộc trao đổi hôm nay và các ô Duy cần tự xác nhận, không nhận vơ pitch/phỏng vấn/đóng góp nhóm chưa xảy ra.
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- **Họ và tên:** NGUYỄN VĂN DUY
+- **Mã học viên:** 2A202602729
+- **Nhóm E403:** chờ Duy xác nhận mã đội và thành viên.
+- **Candidate nhóm chọn:** chờ nhóm hội tụ. Candidate Duy đang cân nhắc: khó xác định yêu cầu/hạn nộp có hiệu lực giữa Discord, VLearn và GitHub.
 
----
+## 1. Tôi đã tham gia vào phần nào? — chỉ điền việc đã làm thật
 
-## 1. Tôi đã tham gia vào phần nào?
-
-Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "tham gia thảo luận".
-
-| Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
+| Hoạt động | Sự kiện đã biết từ phiên hôm nay | Duy cần tự xác nhận / điền tác động |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân | Duy nhờ đối chiếu Discord, VLearn, GitHub vì gặp hai bộ Day 02 và hai hạn Lab 1. AI tổ chức thành 8 candidate trong [individual-report.md](../01-individual-problem-scan/individual-report.md). | Duy giữ/bỏ candidate nào? Dấu hiệu nào Duy tự đo hoặc chứng kiến thêm? |
+| Pitch Problem Card | Chưa có thông tin Duy đã pitch card nào trong nhóm E403. | Ghi đúng card Duy tự nói, thời điểm và nhóm phản hồi gì. |
+| Challenge bài bạn khác | Duy đã chuẩn bị câu hỏi phản biện cho một nhóm đang pitch agent tra thuốc bằng RxNorm; chưa xác nhận đã đặt câu hỏi trước lớp. | Nếu đã hỏi, ghi câu Duy thực sự hỏi và phản hồi; nếu chưa, ghi “chưa thực hiện”. |
+| Gom trùng / cluster | Chưa có dữ liệu trao đổi của 3–4 thành viên nhóm. | Ghi cụm nào Duy góp phần gom sau khi họp thật. |
+| Chọn candidate | AI đề xuất vấn đề đối chiếu nguồn; nhóm chưa xác nhận. | Ghi phiếu chọn/điểm hoặc lý do nhóm chốt thật. |
+| Validation / research | AI mở các thông báo Discord, trang VLearn và hai repo GitHub; chưa có phỏng vấn/poll. | Ghi Duy đã tự hỏi ai, câu trả lời, nguồn nào Duy tự kiểm. |
+| Workflow nhóm | AI dựng workflow đề xuất trong bản group-report nháp. | Ghi Duy đã sửa bước nào sau thảo luận. |
+| Problem Statement | AI soạn v0/v1 đề xuất, chưa có phản biện nhóm. | Ghi metric/boundary nào Duy làm chặt hơn và vì sao. |
+| Rule / Workflow / Agent | AI đề xuất baseline rule + workflow tóm tắt, không dùng agent tự nộp. | Ghi lựa chọn nhóm sau khi so 3 mức. |
+| Decision | AI đề xuất `NOT YET` vì chưa có validation, nhóm chưa chốt. | Ghi quyết định cuối và lập luận thật của Duy. |
 
-**Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
+**Dấu tay của Duy đã có trong phiên:** Duy yêu cầu kiểm tra lại nguồn khi thấy bộ Day 02 cũ không khớp Lab 2 E403, rồi cung cấp đúng MSSV để đối chiếu. Duy cần bổ sung việc **tự sửa tài liệu hoặc tự hỏi/kiểm chứng với nhóm** nếu muốn chứng minh đóng góp cá nhân trong artifact cuối.
 
-```text
+## 2. AI đã được dùng thế nào — dữ kiện, không phải lời kể thay Duy
 
-```
+| Phase | AI đã giúp trong phiên này | Chỗ AI có thể sai / thiếu | Câu Duy tự trả lời trước khi nộp |
+|---|---|---|---|
+| Scan | Nhóm hóa các vướng mắc đã nêu thành candidate problems có actor và dấu hiệu đếm được. | Một phiên của Duy không chứng minh cả lớp đều gặp; số lần/phút cần đo thật. | Tôi giữ/bỏ ý nào sau khi tự xem? |
+| Problem Card | Đề xuất 3 card và workflow trước/sau nháp. | Có thể gộp hai pain khác nhau thành một sản phẩm quá rộng. | Tôi đã thu hẹp card nào, vì sao? |
+| Workflow | Dựng các bước kiểm Discord–GitHub–VLearn và đường chuyển coach khi mâu thuẫn. | Chưa phỏng vấn người khác nên quy trình có thể thiếu bước. | Tôi đã sửa/hỏi lại bước nào? |
+| Research | Tìm thông báo Discord, trang nộp VLearn và repo Lab 2 đúng lớp E403. | README Lab 1 cũ ghi hạn khác Discord mới; AI không được tự tuyên bố hạn nào chính thức nếu BTC chưa xác nhận. | Tôi đã xác nhận nguồn ưu tiên bằng cách nào? |
+| Problem Statement | Viết v0/v1 đề xuất và metric mục tiêu rõ số. | Không có baseline thời gian hay tỷ lệ nộp sai của toàn khóa. | Tôi đã đo hoặc bỏ giả định nào? |
+| Rule / Workflow / Agent | Đặt rule/index làm baseline, LLM chỉ tóm tắt có link, không cho agent tự nộp. | Có thể trang FAQ/version đơn giản đã đủ, không cần model. | Vì sao tôi hoặc nhóm chọn mức cuối? |
+| Decision | Đề xuất `NOT YET` cho đến khi có 2–3 phỏng vấn hoặc poll 5–10 người. | Nhóm chưa thảo luận/chấm điểm nên không thể ghi là quyết định nhóm. | Quyết định thật là gì và điều gì làm tôi đổi ý? |
 
----
+## 3. Gợi ý để Duy tự viết reflection cuối (8–12 câu)
 
-## 2. Bảng dùng AI (mỗi dòng 1 phase có dùng AI — 2 cột cuối bắt buộc)
+Không chép nguyên câu dưới đây; dùng như dàn ý và viết bằng lời của Duy sau khi làm việc với nhóm:
 
-| Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
-|---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+1. Tôi đã pitch vấn đề nào và trải nghiệm nào khiến tôi chọn nó?
+2. Khi nghe các bạn, tôi hỏi/challenge điều gì? Có ai chỉ ra chỗ yếu trong card của tôi không?
+3. Tôi đã đổi ý hoặc sửa workflow/metric/boundary ở đâu sau phản biện?
+4. AI đã giúp tôi tìm/so sánh nguồn nào? Nó từng theo nhầm bộ đề/hạn nào và tôi đã yêu cầu kiểm lại ra sao?
+5. Trong artifact cuối, đóng góp cụ thể của tôi là đoạn/bảng/sơ đồ/nguồn nào?
+6. Nếu làm lại, tôi sẽ đo thời gian, hỏi người dùng hoặc xác định nguồn chính thức sớm hơn như thế nào?
 
-> Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
+**Reflection do Duy tự viết sau khi nhóm làm xong:**
 
----
+> [Viết 8–12 câu bằng ngôn ngữ của Duy. Ghi tên việc đã làm, kết quả và một ví dụ AI sai/hời hợt; không nhận rằng đã phỏng vấn, pitch hay chốt nhóm nếu chưa thực hiện.]
 
-## 3. Reflection câu hỏi mở
+## 4. Tự kiểm trước khi công bố/nộp
 
-Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (không trả lời bullet 1 dòng):
-- Tôi học được gì khi nghe top 3 problems của các bạn khác?
-- Nhóm có lúc nào bị solution-first, đòi làm Agent cho ngầu không?
-- Tôi có thay đổi ý kiến sau khi bị challenge không, vì sao đổi?
-- Tôi đóng góp gì thật sự vào artifact cuối, phần nào có dấu tay của tôi?
-- Điều khó nhất khi viết Problem Statement là gì, metric hay boundary?
-- Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?
-
-**Reflection:**
-
-```text
-
-
-
-```
-
----
-
-## 4. Tự kiểm cuối bài (check trước khi nộp repo)
-
-- [ ] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài
-- [ ] [15đ] Nhóm có workflow trước/sau
-- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
-- [ ] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
-- [ ] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
-- [ ] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
-
+- [ ] Duy đã tự đọc/sửa [scan cá nhân](../01-individual-problem-scan/individual-report.md) và có ít nhất 5 pain thật với số đo/bằng chứng.
+- [ ] Duy đã pitch và challenge nhóm thật; ghi đúng câu hỏi và phản hồi.
+- [ ] Nhóm đã hội tụ/validation/research và chốt [group-report.md](../02-group-problem-statement/group-report.md).
+- [ ] Duy tự viết 8–12 câu reflection; không dùng đoạn AI làm câu trả lời thay mình.
+- [ ] Không công bố tên đầy đủ/email của người khác trong repo public.
