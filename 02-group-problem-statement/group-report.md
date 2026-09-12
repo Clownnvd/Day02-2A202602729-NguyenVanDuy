@@ -7,7 +7,7 @@
 | Định danh trong repo public | Vai trò ghi ở Google Doc | Việc còn cần xác nhận |
 |---|---|---|
 | Duy — `2A202602729` | **Trưởng nhóm, điều phối, research** (Duy tự xác nhận) | Ghi cụ thể việc điều phối và nguồn Duy trực tiếp kiểm. |
-| Dương | Writer | Xác nhận đoạn/bảng đã viết. |
+| Dương | Writer; **người pitching candidate chọn món** (Duy xác nhận) | Xác nhận đoạn/bảng đã viết và phần đã trình bày. |
 | Nhật | Workflow | Xác nhận workflow đã sửa. |
 | Ngân | Workflow | Xác nhận workflow đã sửa. |
 | Thân | “Facilitator” theo Google Doc | Xác nhận phần việc thực tế và cách phân chia với vai trò điều phối của Duy. |
@@ -20,7 +20,7 @@ Anh xác nhận **buổi lab chiều nay chia nhóm 5 người**, nên bản nà
 
 ### 3.1. Candidate đã có trong Google Doc
 
-Doc ghi **13 ý**; khung 9–12 trong worksheet là cho nhóm 3–4 người, còn lớp chiều nay chia nhóm 5. Bảng này ghi lại nội dung nguồn; **chưa chứng minh mỗi người đã pitch/challenge trực tiếp**.
+Doc ghi **13 ý**; khung 9–12 trong worksheet là cho nhóm 3–4 người, còn lớp chiều nay chia nhóm 5. Duy xác nhận **Dương pitching** vấn đề chọn món; phần pitch/challenge của các thành viên khác vẫn cần ghi theo việc thật.
 
 | # | Người đưa ra | Candidate | Actor / bước nghẽn sơ bộ |
 |---:|---|---|---|

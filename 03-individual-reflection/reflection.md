@@ -15,7 +15,7 @@
 | Hoạt động | Sự kiện đã biết từ phiên hôm nay | Duy cần tự xác nhận / điền tác động |
 |---|---|---|
 | Scan cá nhân | Duy nhờ đối chiếu Discord, VLearn, GitHub vì gặp hai bộ Day 02 và hai hạn Lab 1. AI tổ chức thành 8 candidate trong [individual-report.md](../01-individual-problem-scan/individual-report.md). | Duy giữ/bỏ candidate nào? Dấu hiệu nào Duy tự đo hoặc chứng kiến thêm? |
-| Pitch Problem Card | Chưa có thông tin Duy đã pitch card nào trong nhóm E403. | Ghi đúng card Duy tự nói, thời điểm và nhóm phản hồi gì. |
+| Pitch Problem Card | Duy xác nhận **Dương là người pitching** vấn đề chọn món. Chưa có dữ kiện Duy đã tự pitch một card cá nhân. | Ghi việc Duy thực sự chuẩn bị/hỗ trợ phần pitch hoặc card cá nhân đã trình bày nếu có; không nhận phần nói của Dương. |
 | Challenge bài bạn khác | Duy đã chuẩn bị câu hỏi phản biện cho một nhóm đang pitch agent tra thuốc bằng RxNorm; chưa xác nhận đã đặt câu hỏi trước lớp. | Nếu đã hỏi, ghi câu Duy thực sự hỏi và phản hồi; nếu chưa, ghi “chưa thực hiện”. |
 | Gom trùng / cluster | Duy xác nhận mình điều phối nhóm; Google Doc có 13 candidate, cluster và score của 5 người. | Ghi Duy đã mời từng người trình bày, gom ý hoặc xử lý bất đồng cụ thể thế nào. |
 | Chọn candidate | Google Doc chung ghi shortlist/score và chọn món ăn; Duy trước đó đề xuất vấn đề đối chiếu nguồn. | Ghi Duy đã tham gia thảo luận/challenge/chốt thế nào, bằng việc thật. |
@@ -25,7 +25,7 @@
 | Rule / Workflow / Agent | Bản nhóm đề xuất Rule-first Workflow, không dùng agent tự đặt món. | Ghi lựa chọn nhóm thật sau khi so baseline không AI với Workflow. |
 | Decision | Google Doc ghi `Not Yet`; dữ liệu validation trong tab khác được nêu là minh họa. | Ghi nhóm xác nhận quyết định nào sau khi có số đo thật. |
 
-**Dấu tay của Duy đã có trong phiên:** Duy yêu cầu kiểm tra lại nguồn khi thấy bộ Day 02 cũ không khớp Lab 2 E403, rồi cung cấp đúng MSSV để đối chiếu. Duy cần bổ sung việc **tự sửa tài liệu hoặc tự hỏi/kiểm chứng với nhóm** nếu muốn chứng minh đóng góp cá nhân trong artifact cuối.
+**Dấu tay của Duy đã có trong phiên:** Duy xác nhận mình là trưởng nhóm, điều phối và phụ trách research; Dương là người pitching. Duy đã yêu cầu kiểm tra lại nguồn khi thấy bộ Day 02 cũ không khớp Lab 2 E403. Để reflection có bằng chứng cá nhân, Duy cần ghi việc điều phối cụ thể, nguồn đã **tự mở kiểm** và điều đã thay đổi sau khi đọc nguồn.
 
 ## 2. AI đã được dùng thế nào — dữ kiện, không phải lời kể thay Duy
 
@@ -43,8 +43,8 @@
 
 Không chép nguyên câu dưới đây; dùng như dàn ý và viết bằng lời của Duy sau khi làm việc với nhóm:
 
-1. Tôi đã pitch vấn đề nào và trải nghiệm nào khiến tôi chọn nó?
-2. Khi nghe các bạn, tôi hỏi/challenge điều gì? Có ai chỉ ra chỗ yếu trong card của tôi không?
+1. Dương pitching; tôi đã điều phối hoặc chuẩn bị cho phần trình bày đó như thế nào?
+2. Khi nghe các bạn, tôi đã hỏi/challenge điều gì? Nếu không đặt câu hỏi, tôi đã ghi nhận phản biện nào?
 3. Tôi đã đổi ý hoặc sửa workflow/metric/boundary ở đâu sau phản biện?
 4. AI đã giúp tôi tìm/so sánh nguồn nào? Nó từng theo nhầm bộ đề/hạn nào và tôi đã yêu cầu kiểm lại ra sao?
 5. Trong artifact cuối, đóng góp cụ thể của tôi là đoạn/bảng/sơ đồ/nguồn nào?
@@ -57,7 +57,7 @@ Không chép nguyên câu dưới đây; dùng như dàn ý và viết bằng l�
 ## 4. Tự kiểm trước khi công bố/nộp
 
 - [ ] Duy đã tự đọc/sửa [scan cá nhân](../01-individual-problem-scan/individual-report.md) và có ít nhất 5 pain thật với số đo/bằng chứng.
-- [ ] Duy đã pitch và challenge nhóm thật; ghi đúng câu hỏi và phản hồi.
+- [ ] Duy ghi đúng Dương là người pitching; nêu việc điều phối/challenge hoặc pitch cá nhân **chính Duy thực hiện**, nếu có.
 - [ ] Nhóm đã hội tụ/validation/research và chốt [group-report.md](../02-group-problem-statement/group-report.md).
 - [ ] Duy tự viết 8–12 câu reflection; không dùng đoạn AI làm câu trả lời thay mình.
 - [ ] Không công bố tên đầy đủ/email của người khác trong repo public.
