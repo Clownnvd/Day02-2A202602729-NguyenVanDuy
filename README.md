@@ -1,6 +1,6 @@
 # Day 02 Lab — bài cá nhân của Nguyễn Văn Duy (`2A202602729`)
 
-Repo này dùng cấu trúc [Lab 2 E403 của AI20K Cohort 4](https://github.com/VinUni-AI20k/K4B-Day02-AI-Product-Labs). Nội dung hiện là **bản chuẩn bị**: [scan cá nhân](01-individual-problem-scan/individual-report.md) đã có các candidate để Duy xác nhận; [bản nhóm](02-group-problem-statement/group-report.md) chờ nhóm 3–4 người hội tụ và kiểm chứng; [reflection cá nhân](03-individual-reflection/reflection.md) chờ Duy tự viết sau hoạt động thật. [Hướng dẫn tiếp tục trên máy khác](HUONG-DAN-TIEP-TUC-LAB2.md) ghi rõ trạng thái và các bước còn lại. Không coi repo này là bài đã hoàn tất cho đến khi các mục còn chờ được cập nhật.
+Repo này dùng cấu trúc [Lab 2 E403 của AI20K Cohort 4](https://github.com/VinUni-AI20k/K4B-Day02-AI-Product-Labs). Nội dung hiện là **bản chuẩn bị**: [scan cá nhân](01-individual-problem-scan/individual-report.md) đã có các candidate để Duy xác nhận; [bản nhóm](02-group-problem-statement/group-report.md) đã chuyển sang vấn đề **chọn món ăn khi bận** theo Google Doc chung nhưng còn chờ validation thật và xác nhận cách nộp nhóm 5 người; [reflection cá nhân](03-individual-reflection/reflection.md) chờ Duy tự viết sau hoạt động thật. [Hướng dẫn tiếp tục trên máy khác](HUONG-DAN-TIEP-TUC-LAB2.md) ghi rõ trạng thái và các bước còn lại. Không coi repo này là bài đã hoàn tất cho đến khi các mục còn chờ được cập nhật.
 
 ---
 
