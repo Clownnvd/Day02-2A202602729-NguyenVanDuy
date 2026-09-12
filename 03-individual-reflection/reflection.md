@@ -6,7 +6,8 @@
 
 - **Họ và tên:** NGUYỄN VĂN DUY
 - **Mã học viên:** 2A202602729
-- **Nhóm E403:** Google Doc chung ghi 5 thành viên; Duy cần xác nhận mã đội và cách nộp với coach.
+- **Vai trò Duy tự xác nhận:** trưởng nhóm, điều phối nhóm và research. Cần nêu việc cụ thể và kết quả thật trong reflection cuối.
+- **Nhóm E403:** buổi lab chiều nay chia nhóm 5 người theo Duy xác nhận; mã đội chưa có trong tài liệu.
 - **Candidate nhóm chọn:** Google Doc chung ghi “Mất thời gian chọn món ăn”; bản repo nhóm vẫn chờ validation thật và xác nhận bản cuối.
 
 ## 1. Tôi đã tham gia vào phần nào? — chỉ điền việc đã làm thật
@@ -16,9 +17,9 @@
 | Scan cá nhân | Duy nhờ đối chiếu Discord, VLearn, GitHub vì gặp hai bộ Day 02 và hai hạn Lab 1. AI tổ chức thành 8 candidate trong [individual-report.md](../01-individual-problem-scan/individual-report.md). | Duy giữ/bỏ candidate nào? Dấu hiệu nào Duy tự đo hoặc chứng kiến thêm? |
 | Pitch Problem Card | Chưa có thông tin Duy đã pitch card nào trong nhóm E403. | Ghi đúng card Duy tự nói, thời điểm và nhóm phản hồi gì. |
 | Challenge bài bạn khác | Duy đã chuẩn bị câu hỏi phản biện cho một nhóm đang pitch agent tra thuốc bằng RxNorm; chưa xác nhận đã đặt câu hỏi trước lớp. | Nếu đã hỏi, ghi câu Duy thực sự hỏi và phản hồi; nếu chưa, ghi “chưa thực hiện”. |
-| Gom trùng / cluster | Google Doc có 13 candidate, cluster và score của nhóm 5 người; chưa rõ Duy đã trực tiếp đề xuất/sửa phần nào. | Ghi cụm nào Duy góp phần gom sau khi họp thật. |
+| Gom trùng / cluster | Duy xác nhận mình điều phối nhóm; Google Doc có 13 candidate, cluster và score của 5 người. | Ghi Duy đã mời từng người trình bày, gom ý hoặc xử lý bất đồng cụ thể thế nào. |
 | Chọn candidate | Google Doc chung ghi shortlist/score và chọn món ăn; Duy trước đó đề xuất vấn đề đối chiếu nguồn. | Ghi Duy đã tham gia thảo luận/challenge/chốt thế nào, bằng việc thật. |
-| Validation / research | AI đã kiểm các nguồn Grab/Uber về gợi ý món; tab “Thẻ 2” trong Doc ghi số liệu phỏng vấn/khảo sát chỉ là kịch bản minh họa. | Ghi nguồn Duy tự kiểm và dữ liệu nhóm thu thật; không dùng quote minh họa. |
+| Validation / research | Duy xác nhận phụ trách research; AI đã kiểm nguồn Grab/Uber về gợi ý món. Tab “Thẻ 2” trong Doc ghi số liệu phỏng vấn/khảo sát chỉ là kịch bản minh họa. | Ghi nguồn Duy tự mở/đối chiếu, phát hiện nào khiến nhóm sửa ý và dữ liệu nhóm thu thật; không dùng quote minh họa. |
 | Workflow nhóm | Google Doc có workflow chọn món; AI giúp chuyển thành bản Rule lọc cứng → tối đa 3 món → người dùng tự chốt trong group-report. | Ghi Duy đã tự sửa bước nào sau thảo luận. |
 | Problem Statement | Google Doc có v0/v1 chọn món; bản repo làm rõ baseline chưa đo và phạm vi một người/một bữa. | Ghi metric/boundary nào Duy tự làm chặt hơn và vì sao. |
 | Rule / Workflow / Agent | Bản nhóm đề xuất Rule-first Workflow, không dùng agent tự đặt món. | Ghi lựa chọn nhóm thật sau khi so baseline không AI với Workflow. |

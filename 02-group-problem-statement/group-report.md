@@ -6,13 +6,13 @@
 
 | Định danh trong repo public | Vai trò ghi ở Google Doc | Việc còn cần xác nhận |
 |---|---|---|
-| Duy — `2A202602729` | Research | Ghi đúng nguồn và phần research tự thực hiện. |
+| Duy — `2A202602729` | **Trưởng nhóm, điều phối, research** (Duy tự xác nhận) | Ghi cụ thể việc điều phối và nguồn Duy trực tiếp kiểm. |
 | Dương | Writer | Xác nhận đoạn/bảng đã viết. |
 | Nhật | Workflow | Xác nhận workflow đã sửa. |
 | Ngân | Workflow | Xác nhận workflow đã sửa. |
-| Thân | Facilitator | Xác nhận phần điều phối/quyết định. |
+| Thân | “Facilitator” theo Google Doc | Xác nhận phần việc thực tế và cách phân chia với vai trò điều phối của Duy. |
 
-Anh xác nhận **nhóm thực tế có 5 người**. [Worksheet Lab 2](../01-worksheet.md) mô tả nhóm 3–4 người; cần coach xác nhận cách nộp cho nhóm 5. Bản public chỉ dùng tên ngắn, không đăng họ tên đầy đủ/email của thành viên khác.
+Anh xác nhận **buổi lab chiều nay chia nhóm 5 người**, nên bản này dùng đúng 5 thành viên thực tế dù [worksheet mẫu](../01-worksheet.md) mô tả nhóm 3–4 người. Bản public chỉ dùng tên ngắn, không đăng họ tên đầy đủ/email của thành viên khác.
 
 **Candidate ghi trong Google Doc:** Người bận học/làm việc đặt đồ ăn ngoài phải duyệt nhiều quán và so tổng giá, thời gian nhận, khẩu vị trước khi chốt một bữa. **Phạm vi pilot đề xuất:** một người, một bữa, ngân sách và thời hạn cụ thể; không tự đặt/thanh toán.
 
@@ -20,7 +20,7 @@ Anh xác nhận **nhóm thực tế có 5 người**. [Worksheet Lab 2](../01-wo
 
 ### 3.1. Candidate đã có trong Google Doc
 
-Doc ghi **13 ý** (khung 9–12 trong worksheet dành cho nhóm 3–4 người). Bảng này ghi lại nội dung nguồn; **chưa chứng minh mỗi người đã pitch/challenge trực tiếp**.
+Doc ghi **13 ý**; khung 9–12 trong worksheet là cho nhóm 3–4 người, còn lớp chiều nay chia nhóm 5. Bảng này ghi lại nội dung nguồn; **chưa chứng minh mỗi người đã pitch/challenge trực tiếp**.
 
 | # | Người đưa ra | Candidate | Actor / bước nghẽn sơ bộ |
 |---:|---|---|---|
@@ -52,7 +52,17 @@ Doc ghi **13 ý** (khung 9–12 trong worksheet dành cho nhóm 3–4 người).
 
 ## Phase 4 — Validation và research
 
-### 4.1. Bằng chứng còn thiếu
+### 4.1. Nội dung phỏng vấn/khảo sát trong Google Doc và bằng chứng còn thiếu
+
+**Bản chính của Google Doc đang ghi các hàng sau. Đây là số liệu và câu nói *minh họa, chưa xác minh*, theo chính tab “Thẻ 2” của tài liệu; hai tab còn dùng những bộ câu trả lời khác nhau.** Chúng được giữ ở đây để nhóm có khung điền, không dùng làm kết luận về người dùng hoặc baseline.
+
+| Nguồn ghi trong Doc | Tín hiệu xác nhận minh họa | Tín hiệu phản bác minh họa | Cách nhóm dự kiến sửa problem |
+|---|---|---|---|
+| Interview — ghi `3 người` | Doc ghi `2/3` mất khoảng 30 phút. Một câu được điền: “Nhiều lúc tôi lướt rất lâu, xem giá với đánh giá quán rồi cuối cùng vẫn chọn món quen.” Câu khác nói phải xem nhiều app mới quyết định. | Doc ghi `1/3` thường đặt lại món quen và chỉ mất 1–2 phút. | Thu hẹp actor về người thường đặt ngoài nhưng phải so nhiều lựa chọn; **chờ phỏng vấn thật**. |
+| Survey/poll — ghi `8 người` | Doc ghi `5/8` mất 5–10 phút và `6/8` đánh giá mức phân vân từ 4/5 trở lên. | Doc ghi `2/8` mất dưới 2 phút do đặt món quen; `1/8` không coi đây là khó khăn. | Tách người chọn rất nhanh khỏi nhóm thực sự phân vân; **chờ kết quả form thật**. |
+| Review/log — ghi `10 review mẫu` | Doc diễn giải rằng có người quan tâm giá, phí giao và thời gian giao. | Review không cho biết họ cần AI; không có link/cách lấy mẫu. | Chỉ dùng làm tín hiệu phụ nếu tìm lại được từng review. |
+
+Các con số “2/3 khoảng 30 phút”, “5/8 khoảng 5–10 phút” và baseline “10 phút/lần” **không nhất quán hoặc chưa có chứng cứ gốc**; không lấy trung bình hoặc chọn một số làm kết quả nhóm.
 
 | Nguồn | Trạng thái sau khi đọc cả Google Doc | Cần làm trước khi nộp |
 |---|---|---|
@@ -112,7 +122,7 @@ flowchart TD
 
 | Metric | Baseline | Mục tiêu pilot đề xuất | Cách đo |
 |---|---|---|---|
-| Thời gian từ bắt đầu tìm đến **chốt món** | `T0` chưa đo | `T1 ≤ 0,7 × T0` (≥30% giảm), cần nhóm xác nhận | So cùng người/menu: cách hiện tại, Rule+món cũ, top 3. |
+| Thời gian từ bắt đầu tìm đến **chốt món** | **Giả định thiết kế:** `T0 = 10 phút/lần` theo Google Doc; **chưa bấm giờ thật**. | `T1 ≤ 5 phút/lần` (mục tiêu giảm ≥50% nếu baseline 10 phút được xác nhận). | So cùng người/menu: cách hiện tại, Rule+món cũ, top 3; thay giả định bằng số đo thật. |
 | Món top 3 đạt ngân sách/hạn | Chưa đo | Không hiện món vi phạm điều kiện cứng | Kiểm tổng giá/ETA theo menu nguồn từng ca. |
 | Hài lòng với món đã chốt | Chưa đo | Không thấp hơn baseline | Thang 1–5 sau khi chốt; hỏi sau bữa nếu làm được. |
 | Fallback/bỏ qua gợi ý | Chưa đo | Theo dõi, chưa đặt ngưỡng kết luận | Đếm ca không có dữ liệu/món và ca quay về duyệt thủ công. |
@@ -124,8 +134,8 @@ flowchart TD
 | Actor | Người thường đặt đồ ăn ngoài. | Người bận học/làm việc đặt **một bữa**, có ngân sách và hạn nhận cụ thể. |
 | Workflow | Duyệt quán, menu, review, giá, ETA rồi đặt. | Tách rõ bước **so/chốt món** trước thao tác đặt. |
 | Bottleneck | Quá nhiều lựa chọn. | Phải tự so nhiều món trên nhiều tiêu chí mà chưa có shortlist ngắn đáng tin. |
-| Impact | Doc ước lượng 10 phút/lần, 3–4 lần/tuần. | `T0` và tần suất chưa đo; rủi ro tốn thời gian/chọn món không ưng ý cần kiểm chứng. |
-| Success Metric | Doc đặt mục tiêu 10 → 5 phút. | Thử mục tiêu ≥30% giảm thời gian trên cùng menu **không giảm hài lòng**. |
+| Impact | Doc ước lượng 10 phút/lần, 3–4 lần/tuần. | `T0` thực và tần suất chưa đo; tạm lấy **10 phút/lần làm giả định thiết kế**, rủi ro tốn thời gian/chọn món không ưng ý cần kiểm chứng. |
+| Success Metric | Doc đặt mục tiêu 10 → 5 phút. | Giữ **giả định pilot** `10 → ≤5 phút/lần` và không giảm hài lòng; bấm giờ để xác nhận hoặc sửa baseline trước khi kết luận. |
 | Boundary | Người dùng tự quyết định/thanh toán. | Chỉ gợi ý tối đa 3 món có nguồn giá/ETA; không tự đặt, tự đổi điều kiện hoặc đoán dữ liệu. |
 
 **AI intervention point:** nếu cần, AI chuyển câu tự do thành tiêu chí và giải thích top 3; Rule kiểm giá/ETA/trạng thái. Nếu Rule + món quen đã giảm pain đủ, không cần thêm LLM.
@@ -139,14 +149,13 @@ flowchart TD
 | Workflow | Input → Rule lọc → tùy chọn AI hiểu câu tự do/xếp giải thích → người dùng kiểm/đặt. | **Mức Doc đề xuất**, nhánh cố định và có fallback. |
 | Agent | Tự tìm thêm nguồn, đổi tiêu chí, đặt món thay người dùng. | Chưa có bằng chứng cần; tăng rủi ro chi tiêu/dữ liệu. |
 
-**Mức đề xuất:** Rule-first Workflow; AI là bước tùy chọn phải chứng minh lợi ích so với baseline. **Decision Google Doc ghi: `Not Yet`**. Lý do: baseline chưa đo, interview/survey trong Doc được mô tả là ví dụ, menu cập nhật cho pilot chưa có. Không gọi đây là sản phẩm đã triển khai.
+**Mức đề xuất:** Rule-first Workflow; AI là bước tùy chọn phải chứng minh lợi ích so với baseline. **Decision Google Doc ghi: `Not Yet`**. Lý do: `10 → 5 phút` mới là giả định/mục tiêu, baseline chưa đo, interview/survey trong Doc được mô tả là ví dụ, menu cập nhật cho pilot chưa có. Không gọi đây là sản phẩm đã triển khai.
 
-**Pilot nhỏ nhất nếu đủ điều kiện:** menu mẫu khoảng 20–30 món có tổng giá/ETA, nguồn và thời điểm chụp; thử ba cách trên cùng menu. Đo thời gian chốt, tỷ lệ đạt điều kiện, hài lòng và fallback. Menu mẫu không chứng minh quán còn món/ETA thật ngoài đời; thiếu dữ liệu thì báo chưa chắc.
+**Pilot nhỏ nhất nếu đủ điều kiện:** menu mẫu khoảng 20–30 món có tổng giá/ETA, nguồn và thời điểm chụp; thử ba cách trên cùng menu. Dùng `10 → ≤5 phút` làm mục tiêu ban đầu, rồi thay `10` bằng baseline đo thật trước khi đánh giá. Đo thời gian chốt, tỷ lệ đạt điều kiện, hài lòng và fallback. Menu mẫu không chứng minh quán còn món/ETA thật ngoài đời; thiếu dữ liệu thì báo chưa chắc.
 
 ## Cần bổ sung trước khi nộp bản nhóm
 
-- [ ] Coach xác nhận cách nộp cho nhóm **5 người**.
-- [ ] Nhóm xác nhận 13 candidate, score, lý do chọn và ghi lại pitch/challenge/disagreement thật. Doc hiện chỉ ghi **1 candidate của Thân**; worksheet yêu cầu mỗi người trình bày top 3, nên cần bổ sung hoặc giải thích với coach.
+- [ ] Nhóm xác nhận 13 candidate, score, lý do chọn và ghi lại pitch/challenge/disagreement thật. Doc hiện chỉ ghi **1 candidate của Thân**; worksheet yêu cầu mỗi người trình bày top 3, nên cần bổ sung hoặc giải thích với coach. Làm rõ Duy điều phối chung, Thân hỗ trợ khâu nào.
 - [ ] Có **2–3 interview thật hoặc 5–10 survey thật**, kèm notes/link và phản hồi trái chiều; loại toàn bộ quote minh họa.
 - [ ] Có baseline bấm giờ và menu mẫu có nguồn/thời điểm; chốt metric sau khi nhìn dữ liệu.
 - [ ] Nhóm duyệt v1, vai trò/đóng góp từng người và copy **cùng bản cuối** vào repo cá nhân.
