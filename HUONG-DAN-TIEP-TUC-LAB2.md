@@ -2,9 +2,9 @@
 
 **Bối cảnh:** AI20K Cohort 4, buổi Lab 2 tại E403 ngày 12/09/2026. Học viên: **NGUYỄN VĂN DUY**, mã **2A202602729**, GitHub `Clownnvd`.
 
-**Repo cá nhân để làm và nộp:** https://github.com/Clownnvd/Day02-2A202602729-NguyenVanDuy  
-**Đề và worksheet đúng của buổi này:** https://github.com/VinUni-AI20k/K4B-Day02-AI-Product-Labs  
-**VLearn:** vào khóa `k4p1` → ngày `D03` → Lab 2, đọc hướng dẫn và mở mục **Nộp bài** khi đã đăng nhập. Đường dẫn trực tiếp tới mục nộp (nếu phiên đăng nhập cho phép): https://vlearn.dev/course/k4p1/reader?day=D03&part=codelab-8b284e92e52b4137a46f33b51e861643-submit
+- **Repo cá nhân để làm và nộp:** https://github.com/Clownnvd/Day02-2A202602729-NguyenVanDuy
+- **Đề và worksheet đúng của buổi này:** https://github.com/VinUni-AI20k/K4B-Day02-AI-Product-Labs
+- **VLearn:** vào khóa `k4p1` → ngày `D03` → Lab 2, đọc hướng dẫn và mở mục **Nộp bài** khi đã đăng nhập. Đường dẫn trực tiếp tới mục nộp (nếu phiên đăng nhập cho phép): https://vlearn.dev/course/k4p1/reader?day=D03&part=codelab-8b284e92e52b4137a46f33b51e861643-submit
 
 Đây là **Lab 2: Tìm Đúng Bài Toán Cho AI**, không phải codelab Day 02 cũ của GDGoC FPTU. Bài này tập trung vào problem, workflow, metric, boundary và quyết định Rule / Workflow / Agent; **không yêu cầu làm app hay prototype code** theo README/worksheet của repo trên. Fiprove không nằm trong Individual Scan theo lựa chọn của Duy.
 
