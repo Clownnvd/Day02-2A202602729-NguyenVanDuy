@@ -11,7 +11,7 @@
 
 ## Phase 1 — Scan 8 vấn đề cụ thể
 
-**Cách đọc bảng:** Mỗi lăng kính có 2 vấn đề. “Dấu hiệu thật” là số đếm được trong phiên học này hoặc bài đăng có link. Hai vấn đề ở lăng kính “Khó khăn từ người khác” chỉ là tín hiệu từ câu hỏi công khai của bạn học, **chưa phải phỏng vấn**. Chưa đo thời gian hay khảo sát nhiều người; không lấy số đếm này làm bằng chứng rằng toàn khóa đều gặp cùng vấn đề.
+**Cách đọc bảng:** Mỗi lăng kính có 2 vấn đề. Các dòng được trộn từ những vướng mắc Duy đã nêu trong phiên học và tín hiệu công khai của bạn học; **không lấy trải nghiệm hoặc số phút của bài K3 làm dữ liệu của Duy**. “Dấu hiệu thật” là số đếm trong phiên này hoặc bài đăng có link. Vấn đề #7 là mối lo về đóng góp nhóm Duy đã nêu, **chưa phải lời phàn nàn của người chấm**; #8 là câu hỏi công khai, **chưa phải phỏng vấn**. Chưa đo thời gian hay khảo sát nhiều người.
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---:|---|---|---|---|
@@ -20,11 +20,35 @@
 | 3 | Tốn thời gian | Tài liệu nằm ở nhiều định dạng và nơi lưu, người học phải tìm đúng đoạn liên quan trước khi làm bài. | Học viên mới. | Trong buổi này đã đối chiếu **21 slide** bộ cũ, **12 mục** VLearn Lab 2 và worksheet repo mới. Đây là số tài liệu/mục, **chưa đo thời gian đọc**. |
 | 4 | Tốn thời gian | Khi pitch, người trình bày phải lần lượt mở nhiều file và tự chuyển nội dung kỹ thuật thành lời giải thích ngắn. | Học viên thuyết trình, nhóm nghe. | Bản pitch trước phải mở **6 tab** (scan, sơ đồ, report, log, code, kết quả). **Chưa đo** thời gian chuẩn bị hoặc mức hiểu của người nghe. |
 | 5 | AI hỗ trợ tốt hơn | Hai bộ hướng dẫn cùng được gọi “Day 02” nhưng có repo, cấu trúc và cổng nộp khác; cần đối chiếu ngữ nghĩa và dẫn đúng nguồn để tránh chuẩn bị sai bài. | Học viên Lab 2 E403. | **2 repo khác nhau:** [bộ codelab cũ](https://github.com/GDGoC-FPTU/VinUni_Codelab_Day02_Template) và [repo Lab 2 E403 hiện tại](https://github.com/VinUni-AI20k/K4B-Day02-AI-Product-Labs); **2 cổng nộp** là Google Form cũ và VLearn hiện tại. AI có thể tóm tắt khác biệt, nhưng người học xác nhận nguồn hiện hành. |
-| 6 | AI hỗ trợ tốt hơn | Quy định bảo vệ dữ liệu trong hai bộ hướng dẫn dễ bị dùng nhầm khi công khai repo; cần trả lời theo đúng phiên bản và kèm trích dẫn. | Học viên có repo public, thành viên nhóm. | Hướng dẫn codelab cũ yêu cầu ghi tên/email các thành viên ở đầu file; [VLearn Lab 2 E403](https://vlearn.dev/course/k4p1/reader?day=D03&part=codelab-8b284e92e52b4137a46f33b51e861643-s02-doc) nói **không viết họ tên đầy đủ, email của người khác** trong file public. Đây là **2 quy tắc theo 2 bài khác nhau**; AI không được tự gộp thành một quy tắc. |
-| 7 | Khó khăn từ người khác | Bạn học hỏi về trạng thái điểm danh; việc hiểu trạng thái và biết nơi xác nhận chưa rõ với ít nhất một số người trong lớp. | Học viên cần xác nhận điểm danh; người hỗ trợ lớp. | Trong [kênh Discord #3b-lab-e403](https://discord.com/channels/1543625766837952622/1547290260877344798) có **2 câu hỏi** của bạn học về trạng thái điểm danh. Đây là câu hỏi công khai, **chưa phải kết quả phỏng vấn**. |
-| 8 | Khó khăn từ người khác | Bạn học còn hỏi về điểm cộng và tên repo nộp bài; nếu hướng dẫn nằm rải rác, người học phải hỏi lại người phụ trách. | Học viên chuẩn bị nộp bài; người hỗ trợ lớp. | Trong [kênh Discord #3a-lab-e402](https://discord.com/channels/1543625766837952622/1547272388524376214) có câu hỏi về **2 chủ đề**: điểm cộng và tên repo. Chưa đếm số người gặp cùng vướng mắc hoặc đo thời gian xử lý. |
+| 6 | AI hỗ trợ tốt hơn | Sau buổi học, muốn ôn và giải thích lại lý thuyết thì phải nối nội dung từ deck, hướng dẫn VLearn và worksheet; AI có thể dựng mục lục/tóm tắt kèm nguồn để người học kiểm lại. | Duy và học viên cần ôn trước lab kế tiếp. | Trong phiên này Duy đã yêu cầu đọc lại deck **21 slide**; Lab 2 có **12 mục** trên VLearn và một worksheet GitHub. Chưa đo thời gian ôn hoặc mức hiểu sau khi dùng bản tóm tắt. |
+| 7 | Khó khăn từ người khác | Khi làm repo nhóm bằng branch, người chấm hoặc thành viên khó biết ai thực sự tự sửa và commit phần nào nếu một người tạo nháp trên branch của người khác. | Trưởng nhóm, thành viên, người chấm. | Repo thực hành trước có **3 branch** (`main`, branch trưởng nhóm, branch thành viên); Duy đã hỏi cách xác nhận đóng góp và tự commit cho đúng người. Đây là mối lo của Duy, **chưa có phản hồi trực tiếp của người chấm**. |
+| 8 | Khó khăn từ người khác | Bạn học phải hỏi lại thông tin lớp/bài nộp khi chưa tìm được câu trả lời rõ trong kênh chung. | Học viên mới; người hỗ trợ lớp. | [Kênh E403](https://discord.com/channels/1543625766837952622/1547290260877344798) có **2 câu hỏi** về trạng thái điểm danh; [kênh E402](https://discord.com/channels/1543625766837952622/1547272388524376214) có câu hỏi về **2 chủ đề** là điểm cộng và tên repo. Chưa đo tỷ lệ người gặp hoặc số câu hỏi lặp lại. |
 
 **Bốn lăng kính đã dùng:** lặp lại, tốn thời gian, AI hỗ trợ tốt hơn, khó khăn từ người khác. **Giới hạn:** đây là scan ban đầu từ trải nghiệm của Duy trong một ngày và câu hỏi công khai của bạn học; nhóm cần hỏi thêm học viên khác để xem vấn đề nào lặp lại thật.
+
+### Tiêu chí của từng lăng kính và cách kiểm chứng
+
+| Lăng kính | Tiêu chí để giữ một problem | Cần đo thêm cho scan này |
+|---|---|---|
+| Lặp lại (#1–2) | Cùng thao tác phải làm lại ở nhiều lần làm/nộp bài; chỉ rõ bước lặp và ai làm. | Đếm số lần kiểm hạn/kiểm bài trong vài lab, không suy tần suất từ một phiên. |
+| Tốn thời gian (#3–4) | Có workflow và một bước tiêu tốn thời gian nổi bật; có thể bấm giờ. | Đo phút tìm tài liệu và phút chuẩn bị pitch ở ít nhất vài lần. |
+| AI hỗ trợ tốt hơn (#5–6) | Đầu vào là văn bản nhiều nguồn/ngữ cảnh; so lợi ích với mục lục, FAQ hoặc rule, và có người kiểm kết quả. | Thử cùng câu hỏi bằng cách thường và AI; so thời gian, độ đúng nguồn và mức hiểu. |
+| Khó khăn từ người khác (#7–8) | Có câu hỏi, hành vi hoặc log của stakeholder; không suy ra pain phổ biến từ một lời kể. | Hỏi người chấm/thành viên về #7; đếm/phỏng vấn thêm học viên về #8. |
+
+### Tiêu chí lọc từ 8 xuống 3
+
+Theo [worksheet Lab 2](../01-worksheet.md), ưu tiên candidate có **actor rõ; workflow hiện tại vẽ được; bottleneck cụ thể; impact đo được hoặc ước lượng có nhãn; so được No AI / Rule / Workflow / Agent; phạm vi vừa một buổi lab**. Bảng dưới là đánh giá sơ bộ, **không phải điểm chấm hay kết quả phỏng vấn**.
+
+| # | Actor, workflow, bottleneck | Bằng chứng/metric còn thiếu | Phương án đơn giản hơn và quyết định lọc |
+|---:|---|---|---|
+| 1 | Rõ: học viên đối chiếu ba nguồn, nghẽn ở chỗ hai hạn khác nhau. | Có 2 mốc thật; chưa đo phút/tần suất. | Trang nguồn chuẩn + rule trước; **chọn, gộp #5**. |
+| 2 | Rõ: học viên rà repo rồi dán link VLearn, nghẽn ở bước tự kiểm. | Có 2 trang/cổng; chưa biết tỷ lệ nộp sai. | Checklist/script rule có thể đủ; **chọn** để so AI với Rule. |
+| 3 | Rõ: học viên tìm/đọc/ghép tài liệu, nghẽn ở tìm đúng đoạn. | Có 21 slide và 12 mục; chưa đo phút hoặc độ hiểu. | FAQ/mục lục trước; **chọn, gộp #6**. |
+| 4 | Rõ người pitch và 6 tab, nhưng bước nào tốn nhất chưa đo. | Thiếu phút chuẩn bị và phản hồi người nghe. | Dàn ý một trang có thể đủ; **để sau**. |
+| 5 | Cùng actor và workflow đối chiếu nguồn với #1. | Có 2 bộ Day 02; chưa đo tần suất nhầm. | **Gộp vào Card #1**, không tính thành card độc lập. |
+| 6 | Cùng workflow tài liệu với #3 nhưng đầu ra là bản ôn/tóm tắt. | Chưa đo mức hiểu hoặc lợi ích so với mục lục. | **Gộp vào Card #3**, không tính thành card độc lập. |
+| 7 | Có 3 branch và vấn đề truy vết người đóng góp; stakeholder chưa được hỏi. | Chưa có lời người chấm/thành viên hoặc số lần sai attribution. | `git log`/quy tắc commit có thể đủ; **để sau**. |
+| 8 | Có câu hỏi công khai của bạn học nhưng nhiều chủ đề khác nhau. | Chưa biết tần suất và cùng một bottleneck hay không. | FAQ/bài ghim trước; **để sau**. |
 
 ### AI đã dùng ở Phase 1
 
@@ -34,11 +58,13 @@
 
 ## Phase 2 — Top 3 Problem Cards
 
+[Mở 3 sơ đồ workflow hiện tại/sau cải thiện](01-individual-problem-scan-workflows.md). Các sơ đồ là bản nháp để Duy tự kiểm và pitch, chưa phải kết quả đo hoặc quyết định nhóm.
+
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | Xác định đúng yêu cầu và hạn nộp khi Discord, VLearn, GitHub khác nhau | Có **2 hạn Lab 1** và **2 bộ Day 02** ngay trong phiên; có thể đo khả năng dẫn nguồn và phát hiện mâu thuẫn. | Bao nhiêu học viên khác gặp? Nguồn nào là “chính thức cuối cùng” khi chưa có quy trình cập nhật? |
+| 1 | Xác định đúng yêu cầu và hạn nộp khi Discord, VLearn, GitHub khác nhau (**gộp #1 + #5**) | Có **2 hạn Lab 1** và **2 bộ Day 02** ngay trong phiên; có thể đo khả năng dẫn nguồn và phát hiện mâu thuẫn. | Bao nhiêu học viên khác gặp? Nguồn nào là “chính thức cuối cùng” khi chưa có quy trình cập nhật? |
 | 2 | Kiểm tra repo đã sẵn sàng nộp đúng Lab/đúng cổng | Có thể phát hiện thiếu 3 thư mục, sai tên repo, private/public, link VLearn trống bằng rule. | Có bao nhiêu lượt nộp sai thật? VLearn có API/trạng thái cho phép kiểm tra không? |
-| 3 | Tìm và hiểu đúng đoạn tài liệu trước khi làm bài/pitch | Có 21 slide bộ cũ và 12 mục VLearn Lab 2; người học cần câu trả lời ngắn kèm nguồn. | Chi phí xây index và cập nhật có đáng hơn mục lục tốt hoặc tìm kiếm sẵn có không? |
+| 3 | Tìm và hiểu đúng đoạn tài liệu trước khi làm bài/pitch (**gộp #3 + #6**) | Có 21 slide bộ cũ và 12 mục VLearn Lab 2; người học cần câu trả lời ngắn kèm nguồn. | Chi phí xây index và cập nhật có đáng hơn mục lục tốt hoặc tìm kiếm sẵn có không? |
 
 ### Card #1 — Đối chiếu yêu cầu và hạn nộp
 

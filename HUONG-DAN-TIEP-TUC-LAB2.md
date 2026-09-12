@@ -22,9 +22,9 @@ Thang điểm trong [README đề gốc](https://github.com/VinUni-AI20k/K4B-Day
 
 ## 2. Bài cá nhân đã chuẩn bị hôm nay
 
-Phase 1 dùng đúng bốn lăng kính: **lặp lại, tốn thời gian, AI hỗ trợ tốt hơn, khó khăn từ người khác**. Tám vấn đề lấy từ buổi học này: hạn Lab 1 khác nhau giữa Discord/README; kiểm trạng thái nộp repo/VLearn; tìm đúng tài liệu; mở nhiều file khi pitch; phân biệt hai bộ Day 02; phân biệt quy định công khai dữ liệu giữa hai bài; câu hỏi của bạn học về điểm danh; câu hỏi về điểm cộng/tên repo. Các số đếm trong file là **quan sát của một phiên hoặc câu hỏi công khai**, chưa phải khảo sát toàn khóa.
+Phase 1 dùng đúng bốn lăng kính: **lặp lại, tốn thời gian, AI hỗ trợ tốt hơn, khó khăn từ người khác**. Tám vấn đề lấy từ buổi học này: hạn Lab 1 khác nhau giữa Discord/README; kiểm trạng thái nộp repo/VLearn; tìm đúng tài liệu; mở nhiều file khi pitch; phân biệt hai bộ Day 02; tổng hợp lý thuyết từ nhiều nguồn; khó truy vết ai thực sự đóng góp trong repo nhóm; câu hỏi công khai của bạn học về thông tin lớp/bài nộp. File scan có **tiêu chí riêng cho từng lăng kính** và **bảng giải thích vì sao lọc 8 xuống 3**. Các số đếm là quan sát của một phiên hoặc câu hỏi công khai, chưa phải khảo sát toàn khóa.
 
-Phase 2 đã chọn ba card:
+Phase 2 đã chọn ba card; [file 3 workflow](01-individual-problem-scan/01-individual-problem-scan-workflows.md) vẽ trước/sau cho từng card:
 
 1. **Đối chiếu yêu cầu và hạn nộp** giữa Discord, VLearn, GitHub. Đây là card Duy dự định mang ra thảo luận nhóm.
 2. **Kiểm tra repo trước khi nộp** đúng bài, đủ file, public và đúng cổng; baseline hợp lý là checklist/rule.
