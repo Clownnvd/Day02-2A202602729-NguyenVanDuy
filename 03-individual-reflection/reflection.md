@@ -1,6 +1,6 @@
 # 03 — Individual Reflection: câu hỏi và dữ kiện để Duy tự hoàn thiện
 
-> **Chưa phải reflection cuối.** Worksheet Lab 2 yêu cầu học viên tự viết 8–12 câu về vai trò và trải nghiệm thật; AI chỉ được gợi câu hỏi tự soi. Phần dưới lưu lại những việc đã diễn ra trong cuộc trao đổi hôm nay và các ô Duy cần tự xác nhận, không nhận vơ pitch/phỏng vấn/đóng góp nhóm chưa xảy ra.
+> **Bản nháp AI theo dữ kiện Duy đã cung cấp, chưa phải reflection cuối.** Phần dưới lưu lại việc đã có trong cuộc trao đổi và một đoạn 10 câu để Duy tự đọc, sửa theo trải nghiệm thật trước khi nộp; không nhận vơ pitch, phỏng vấn hoặc kiểm nguồn chưa làm.
 
 ## Thông tin cá nhân
 
@@ -50,9 +50,9 @@ Không chép nguyên câu dưới đây; dùng như dàn ý và viết bằng l�
 5. Trong artifact cuối, đóng góp cụ thể của tôi là đoạn/bảng/sơ đồ/nguồn nào?
 6. Nếu làm lại, tôi sẽ đo thời gian, hỏi người dùng hoặc xác định nguồn chính thức sớm hơn như thế nào?
 
-**Reflection do Duy tự viết sau khi nhóm làm xong:**
+**Bản nháp reflection 10 câu — Duy cần tự đọc và sửa trước khi dùng:**
 
-> [Viết 8–12 câu bằng ngôn ngữ của Duy. Ghi tên việc đã làm, kết quả và một ví dụ AI sai/hời hợt; không nhận rằng đã phỏng vấn, pitch hay chốt nhóm nếu chưa thực hiện.]
+Trong Lab 2, tôi là trưởng nhóm, phụ trách điều phối và research cho nhóm năm người. Bản làm việc chung ghi 13 candidate và chọn vấn đề mất thời gian chọn món ăn. Dương là người pitching ý tưởng của nhóm, còn tôi tập trung làm rõ phạm vi và phần nghiên cứu. Lúc đầu, vấn đề dễ bị nói quá rộng thành “không biết ăn gì”, nên tôi hướng sự chú ý vào bước phải so nhiều món theo giá, thời gian và sở thích. Tôi cùng AI phác thảo luồng nhận ngân sách, hạn nhận và món muốn ăn, rồi dùng Rule lọc điều kiện cứng trước khi hiện tối đa ba lựa chọn. AI giúp tìm các bài viết về gợi ý cá nhân, đặt lại món và trợ lý tìm món; tôi vẫn cần tự mở nguồn gốc trước khi nói đã kiểm chứng chúng. Qua phần nghiên cứu này, tôi thấy tính năng gợi ý món đã có và nhóm phải so ý tưởng của mình với cách làm hiện tại. Bài học quan trọng nhất của tôi là cần nghiên cứu vấn đề và giải pháp đang có **trước khi bắt đầu xây hệ thống**. Tôi cũng nhận ra số liệu phỏng vấn trong bản Doc là ví dụ và mốc 10 phút chỉ là giả định, nên chưa thể xem đó là kết quả đo của nhóm. Nếu làm lại, tôi sẽ hỏi người dùng thật, bấm giờ họ chọn món, thử bộ lọc đơn giản và chỉ thêm AI khi phép so sánh cho thấy lợi ích rõ.
 
 ## 4. Tự kiểm trước khi công bố/nộp
 
